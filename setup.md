@@ -108,7 +108,7 @@ The original `docker-compose.yaml` includes `dokploy-network` with `external: tr
 cd ~/Documents
 
 # Clone the repository
-git clone https://github.com/EvolutionAPI/evolution-api.git
+git clone https://github.com/whoami1232123/evolution-api.git
 
 # Enter the project directory
 cd evolution-api
@@ -117,7 +117,7 @@ cd evolution-api
 ### Option B: Using SSH (For advanced users with SSH keys)
 
 ```bash
-git clone git@github.com:EvolutionAPI/evolution-api.git
+git clone git@github.com:whoami1232123/evolution-api.git
 cd evolution-api
 ```
 
@@ -1240,5 +1240,6 @@ Evolution API is licensed under Apache License 2.0.
 ---
 
 **Happy Coding! 🚀**
+
 
 **Remember:** Local Evolution API + Local n8n = Use `host.docker.internal`!
